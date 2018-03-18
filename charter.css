@@ -82,3 +82,11 @@ ul.topnav li a.active {
 	font-size:10px;
 	margin-top:28px;
 }
+
+.topbilder{
+	width:30%;
+	height:250px;
+	margin-right:1%;
+	margin-top: 16px;
+
+}
