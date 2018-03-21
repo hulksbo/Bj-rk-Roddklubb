@@ -55,6 +55,10 @@ ul.topnav li a.active {
 	margin:auto;
 }
 
+#main p{
+	font-family: 'Bree Serif', serif;
+}
+
 .footer {
 	height:48px;
 	position: fixed;
